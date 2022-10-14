@@ -1,5 +1,9 @@
 ## Changelog
 
+### v0.20.6
+#### Fixed
+- fix incorrect result normalization in `setratio` and `seqratio`
+
 ### v0.20.5
 #### Fixed
 - fix support for cmake versions below 3.17
@@ -72,7 +76,7 @@
 * Use a faster editops implementation provided by RapidFuzz
 * Reduce code duplication
 * reuse implementations from rapidfuzz-cpp
-* Transition to scikit-build
+* Transition to scikit-build 
 
 ### v0.17.0
 * Removed support for Python 3.5
