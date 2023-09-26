@@ -36,7 +36,7 @@ computation of:
   The `python-Levenshtein` package will continue to be updated alongside the new package
 
 ## Requirements
-* Python 3.6 or later
+* Python 3.7 or later
 
 ## Installation
 ```bash
