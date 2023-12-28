@@ -1,8 +1,8 @@
 # Levenshtein
 
 <p>
-  <a href="https://github.com/maxbachmann/python-Levenshtein/actions">
-    <img src="https://github.com/maxbachmann/python-Levenshtein/workflows/Build/badge.svg"
+  <a href="https://github.com/rapidfuzz/python-Levenshtein/actions">
+    <img src="https://github.com/rapidfuzz/python-Levenshtein/workflows/Build/badge.svg"
          alt="Continous Integration">
   </a>
   <a href="https://pypi.org/project/python-Levenshtein/">
@@ -13,12 +13,12 @@
     <img src="https://img.shields.io/pypi/pyversions/python-Levenshtein"
          alt="Python versions">
   </a>
-  <a href="https://maxbachmann.github.io/Levenshtein">
+  <a href="https://rapidfuzz.github.io/Levenshtein">
     <img src="https://img.shields.io/badge/-documentation-blue"
          alt="Documentation">
   </a>
-  <a href="https://github.com/maxbachmann/python-Levenshtein/blob/main/COPYING">
-    <img src="https://img.shields.io/github/license/maxbachmann/python-Levenshtein"
+  <a href="https://github.com/rapidfuzz/python-Levenshtein/blob/main/COPYING">
+    <img src="https://img.shields.io/github/license/rapidfuzz/python-Levenshtein"
          alt="GitHub license">
   </a>
 </p>
@@ -32,7 +32,7 @@ computation of:
 * approximate median strings, and generally string averaging
 * string sequence and set similarity
 
-> :warning: The package was renamed to `Levenshtein` and can be found [here](https://github.com/maxbachmann/Levenshtein).
+> :warning: The package was renamed to `Levenshtein` and can be found [here](https://github.com/rapidfuzz/Levenshtein).
   The `python-Levenshtein` package will continue to be updated alongside the new package
 
 ## Requirements
@@ -45,7 +45,7 @@ pip install levenshtein
 
 ## Documentation
 
-The documentation for the current version can be found at [https://maxbachmann.github.io/Levenshtein/](https://maxbachmann.github.io/Levenshtein/)
+The documentation for the current version can be found at [https://rapidfuzz.github.io/Levenshtein/](https://rapidfuzz.github.io/Levenshtein/)
 
 ## Support the project
 
@@ -63,4 +63,4 @@ under the terms of the GNU General Public License as published by the Free
 Software Foundation; either version 2 of the License, or (at your option)
 any later version.
 
-See the file [COPYING](https://github.com/maxbachmann/python-Levenshtein/blob/main/COPYING) for the full text of GNU General Public License version 2.
+See the file [COPYING](https://github.com/rapidfuzz/python-Levenshtein/blob/main/COPYING) for the full text of GNU General Public License version 2.
