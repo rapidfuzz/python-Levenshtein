@@ -1,5 +1,9 @@
 ## Changelog
 
+### v0.27.3
+#### Added
+- add support for python 3.14
+
 ### v0.27.1
 #### Changed
 - fix build with ``scikit-build-core`` ``v0.11``
